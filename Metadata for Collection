@@ -1,0 +1,12 @@
+{
+  "name": "OG - Legendary",
+  "description": "A legendary pixel-art hockey player, OG is an absolute weapon in the slot. Paired with being an all-star on ice, OG believes if you can't play after a night out with the lads, you shouldn't be playing. A true legend.",
+  "image": "ipfs://QmYourImageCIDHere",
+  "attributes": [
+    { "trait_type": "Position", "value": "All-Star" },
+    { "trait_type": "Jersey Number", "value": 77 },
+    { "trait_type": "Favourite Snus", "value": "Siberia" },
+    { "trait_type": "Jersey Colour", "value": "Red" },
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ]
+}
